@@ -1,0 +1,33 @@
+MACHINE LEARNING 
+	1.Supervised learning(use labelled data to train model)
+			a.classification(predicting a category ie will stock market go up or down) 
+				-decision
+				-naive bayes-email spam
+				-random forest-can be used to assist in detection of anomalies in power grids to reduce power theft.
+				-logistic regression
+				-KNN(nearest neigbor)-to the nearest sample space e.g Paul's choice of music.
+			b.Regression(no labelled data,predict quantity i.e person's age based on height,weight,health)
+				-linear regression
+				-polynomial regression
+	2.Unsupervised learning
+			a.clustering method(discover structure on unexplored data i.e find group of customers with similar behaviour for marketing purposes) 
+				-K-Means clustering
+	3.Reinforment learning(learning with feedback loop)-reward based learning
+the more the data->the better the model->higher the accuracy.
+
+forecasting-using machine learning using current business data to predict business position in the future and allow management 
+			to make critical business.
+business optimization is driven by the ability to generate actionable insights from data.
+
+Key responsibilities
+1.extensively using SQL in operational reports scripting and python on machine learning models development
+2.forecasting-using traditional data analysis coupled with BI to inform current business position and machine learing models to predict future 
+trends so that business can manage expectations accordingly.
+3.very reasearch oriented individual,and always keen to learn on different technological advancements across industries,including the mining 
+industry where diamonds play a key role.
+4.very good with data management practices,reports development and working with different database technologies(Oracle,SQL Server and Posgres)
+5.touch on usage data analysis and AI.
+
+currently with Botswana Power as Data Scientist(9 months)
+previously worked at Letshego as Data Specialist(8 years)
+very good with data visualization tools i.e Power BI.
